@@ -64,14 +64,14 @@ Passing Node as a text
 
     >>> text_indentation(None)
     Traceback (most recent call last):
-    	      ...
+          ...
     TypeError: text must be a string
 
 Passing a number as a text
 
     >>> text_indentation(10)
     Traceback (most recent call last):
-    	      ...
+          ...
     TypeError: text must be a string
 
 Printing a text with special characters
