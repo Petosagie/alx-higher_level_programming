@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+Module 9-rectangle
+inherits from BaseGeometry,
+(7-base_geometry.py).
+"""
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
 
