@@ -3,6 +3,8 @@
 Module 5-base_geometry
 Empty class
 """
+
+
 class BaseGeometry:
-    """ Empty class """
+    """Empty class"""
     pass
