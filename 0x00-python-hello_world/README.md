@@ -25,3 +25,4 @@ It aims to learn about variables, basics commands (print) and handle strings wit
 | `100-write.py` | Python script that prints a message with `write` sys |
 | `101-compile` | Shell script that compiles a Python file |
 | `102-magic_calculation.py` | Python function that does exactly the same as a given disassembler |
+by osagie
